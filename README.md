@@ -1,7 +1,7 @@
 # Hey there! I'm Ena 👋
 
 ## About Me
-I'm a passionate computer science student with a love for coding and a 😃 for exploring new technologies.
+"I'm a passionate computer science student with a love for coding, always excited to explore new technologies ✨🚀❤️!"
 
 ## Skills
 ![C++](https://img.shields.io/badge/-C%2B%2B-blue?logo=cplusplus) ![C#](https://img.shields.io/badge/-C%23-purple?logo=csharp) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript) ![React.js](https://img.shields.io/badge/-React.js-blue?logo=react) ![Angular](https://img.shields.io/badge/-Angular-red?logo=angular) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript) ![.NET](https://img.shields.io/badge/-.NET-blueviolet?logo=.net) ![UML](https://img.shields.io/badge/-UML-lightgrey?logo=uml)
